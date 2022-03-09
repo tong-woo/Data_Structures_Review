@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6069562a-d4a9-4809-b4e2-26104666d710" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Develop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Structures_in_Python/1.Linear_data_structures/.idea/Linear_data_structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/Linear_data_structures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/binary_iterative.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/binary_recurisve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/doubly_linked_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/find_largest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/linear_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/single_linked_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Linear_data_structures/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.Hash_maps/hash_map(open_addressing).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.Hash_maps/review.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/big_O.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/find_max_and_sort_linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/hashmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/hashmap_vs_linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Algorithmic_complexity/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/Fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/LinkedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/RECURSIVE_vs_ITERATIVE TRAVERSAL.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/binary_search_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/recursion_callStack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/recursion_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Recursion/recursive_flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Nonlinear_data_structures/BinarySearchTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Nonlinear_data_structures/heap_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Nonlinear_data_structures/min_heap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Nonlinear_data_structures/tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.sorting_algorithms/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.sorting_algorithms/merge_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.sorting_algorithms/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.sorting_algorithms/radix_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/A*.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/DFS_and _BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/Dijkstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/Graph_overview.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/euclidean_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/manhattan_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/vertex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="268z8qbUoDMySWRXyVFEeJu0qCT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Stack">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Linear_Data_Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList" />
+      <module name="Linear_Data_Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="Linear_Data_Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue" />
+      <module name="Linear_Data_Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
+      <module name="Linear_Data_Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.DoublyLinkedList" />
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6069562a-d4a9-4809-b4e2-26104666d710" name="Changes" comment="" />
+      <created>1646819845461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646819845461</updated>
+      <workItem from="1646819846615" duration="11749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
