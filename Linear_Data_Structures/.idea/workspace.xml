@@ -59,6 +59,7 @@
       <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/script.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.Graphs_and_Graph_Traversal/vertex.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646819845461</updated>
-      <workItem from="1646819846615" duration="11749000" />
+      <workItem from="1646819846615" duration="11926000" />
     </task>
     <servers />
   </component>
