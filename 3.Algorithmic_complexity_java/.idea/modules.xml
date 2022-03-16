@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3.Algorithmic_complexity_java.iml" filepath="$PROJECT_DIR$/.idea/3.Algorithmic_complexity_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5.Nonlinear_data_structures_java/Nonlinear Data Structures_Java.iml" filepath="$PROJECT_DIR$/../5.Nonlinear_data_structures_java/Nonlinear Data Structures_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSIVE VS. ITERATIVE TRAVERSAL/RECURSIVE VS. ITERATIVE TRAVERSAL.iml" filepath="$PROJECT_DIR$/RECURSIVE VS. ITERATIVE TRAVERSAL/RECURSIVE VS. ITERATIVE TRAVERSAL.iml" />
+    </modules>
+  </component>
+</project>
