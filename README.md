@@ -32,6 +32,7 @@ I will update this in detail with explanation in the next steps...
 
 **Browser history is another example(the 1st one is subway line) of a doubly linked list. When we open our browser, the page that we land on is the head of our list. As we click on things and navigate to new pages, we are moving forward and adding to the tail of our list. If we ever want to go back to something we’ve already visited, we can use the “back” button to move backward through your list**
 ### Searching Arrays
+
 ### Queues
 ### Stacks
 

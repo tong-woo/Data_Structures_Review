@@ -6,6 +6,7 @@ def count(N):
     return count
 
 
+
 num_iterations_1 = count(1) #REPLACE
 print("The while loop performs {0} iterations when N is 1".format(num_iterations_1))
 
